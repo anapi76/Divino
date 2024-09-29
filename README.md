@@ -7,7 +7,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
 
 # Divino
-Divino es mi Proyecto Final de Ciclo como Desarrolladora Web.
+Divino es mi Proyecto Final de Ciclo como Desarrolladora de Aplicaciones Web.
 
 ### Descripción
 El proyecto consiste en una aplicación web que, de manera fácil y rápida ofrecerá a los usuarios información detallada sobre una amplia variedad de vinos españoles con Denominación de Origen (DO) y sus respectivas bodegas. 
